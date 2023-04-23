@@ -1,0 +1,3 @@
+../Src/main.c:16:6:main	8	static
+../Src/main.c:34:6:SysTick_callback	8	static
+../Src/main.c:41:7:SysTick_Handler	8	static
